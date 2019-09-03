@@ -8,7 +8,7 @@
 ```
 $ wget https://dumps.wikimedia.org/other/cirrussearch/20190826/jawiki-20190826-cirrussearch-content.json.gz
 
-$ wget https://dumps.wikimedia.org/wikidatawiki/entities/latest-all.json.bz2
+$ wget https://github.com/singletongue/WikiEntVec/releases/download/20190520/jawiki.word_vectors.200d.txt.bz2
 $ bunzip2 jawiki.word_vectors.200d.txt.bz2
 ```
 
